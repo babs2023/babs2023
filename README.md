@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Babatunde Ogunleye aka Babs
+- 👋 Hi, I’m Babatunde Ogunleye aka Dr Babs
 - 👀 I’m interested in python, data science and data analytics
 - 🌱 I’m currently learning KNIME
 - 💞️ I’m looking to collaborate on the use of KNIME for data science and data analytics
